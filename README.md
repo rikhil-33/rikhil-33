@@ -100,7 +100,7 @@ AI Product Manager at a big tech company — or an F1 team. Whichever gets there
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-url-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikhil-siripurapu-036ba83a8/)
 
 ---
 
