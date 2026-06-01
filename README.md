@@ -36,6 +36,7 @@ I'm not a traditional coder. I use AI tools — Claude, Gemini, GPT — to turn 
 
 ## 🏆 Highlights
 
+- 🏫 **CampusHub** — Full-stack student productivity dashboard (Doubt Forum, Marketplace, Attendance)
 - 🧠 **ForgeAscend v1.0** — 24-Hour Mega Buildathon @ KLH University (Feb 2026)
 - 📊 **Tata GenAI Powered Data Analytics** — Job Simulation via Forage (Oct 2025)
 
