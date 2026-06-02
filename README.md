@@ -29,10 +29,10 @@ I'm not a traditional coder. I use AI tools — Claude, Gemini, GPT — to turn 
 
 | Project | What it does | Status |
 |---|---|---|
+| [ExamSeat](https://github.com/rikhil-33/ExamSeat) | Full-stack exam seating system with Python/Flask backend and live admin dashboard | ✅ Complete |
 | [CampusHub](https://github.com/rikhil-33/CampusHub) | Student dashboard — doubt forum, attendance tracker, marketplace & notifications | ✅ Complete |
 | [AR Product Preview](https://github.com/rikhil-33/ar-product-preview) | Browser-based AR that lets you visualise products in real space before buying | 🚧 In Progress |
 | [Expense Tracker](https://github.com/rikhil-33/Expense-tracker) | Java CLI app to track, categorise and summarise personal expenses | ✅ Complete |
----
 
 ## 🏆 Highlights
 
