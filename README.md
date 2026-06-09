@@ -1,13 +1,10 @@
 # Hey, I'm Rikhil 👋
-
 I'm a BTech CSE (AI & ML) student at **KL University, Hyderabad** — building at the intersection of AI and product thinking.
-
 I'm not a traditional coder. I use AI tools — Claude, Gemini, GPT — to turn ideas into real products fast. My focus is always on the *why* and *what* more than just the *how*.
 
 ---
 
 ## 🚀 What I'm working on
-
 - Building AI-powered projects using LLM APIs
 - Learning product management — user research, PRDs, product strategy
 - Competing in hackathons and shipping things fast
@@ -15,7 +12,6 @@ I'm not a traditional coder. I use AI tools — Claude, Gemini, GPT — to turn 
 ---
 
 ## 🛠️ Tech & Tools
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -26,30 +22,32 @@ I'm not a traditional coder. I use AI tools — Claude, Gemini, GPT — to turn 
 ---
 
 ## 📌 Featured Projects
-
 | Project | What it does | Status |
 |---|---|---|
 | [ExamSeat](https://github.com/rikhil-33/ExamSeat) | Full-stack exam seating system with Python/Flask backend and live admin dashboard | ✅ Complete |
 | [CampusHub](https://github.com/rikhil-33/CampusHub) | Student dashboard — doubt forum, attendance tracker, marketplace & notifications | ✅ Complete |
-| [AR Product Preview](https://github.com/rikhil-33/ar-product-preview) | Browser-based AR that lets you visualise products in real space before buying | ✅ Complete |
+| [AR Product Preview](https://github.com/rikhil-33/ar-product-preview) | Browser-based AR product visualiser built with React + Vite — lets users preview products in real space before buying | ✅ Complete |
 | [Expense Tracker](https://github.com/rikhil-33/Expense-tracker) | Java CLI app to track, categorise and summarise personal expenses | ✅ Complete |
 
-## 🏆 Highlights
+---
 
-- 🏫 **CampusHub** — Full-stack student productivity dashboard (Doubt Forum, Marketplace, Attendance)
+## 🏆 Highlights
 - 🧠 **ForgeAscend v1.0** — 24-Hour Mega Buildathon @ KLH University (Feb 2026)
 - 📊 **Tata GenAI Powered Data Analytics** — Job Simulation via Forage (Oct 2025)
 
 ---
 
-## 🎯 Goal
+## 📊 GitHub Stats
+![Rikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikhil-33&show_icons=true&theme=tokyonight)
 
+---
+
+## 🎯 Goal
 AI Product Manager at a big tech company — or an F1 team. Whichever gets there first. 🏎️
 
 ---
 
 ## 📫 Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikhil-siripurapu-036ba83a8/)
 
 ---
