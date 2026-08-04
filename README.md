@@ -1,55 +1,99 @@
-# Hey, I'm Rikhil 👋
-I'm a BTech CSE (AI & ML) student at **KL University, Hyderabad** — building at the intersection of AI and product thinking.
-I'm not a traditional coder. I use AI tools — Claude, Gemini, GPT — to turn ideas into real products fast. My focus is always on the *why* and *what* more than just the *how*.
+&lt;h1 align="center"&gt;Rikhil Siripurapu&lt;/h1&gt;
+&lt;p align="center"&gt;Computer Science & Engineering (AI & ML) — Building products at the intersection of software and AI.&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/rikhil-33"&gt;GitHub&lt;/a&gt; ·
+  &lt;a href="mailto:siripurapu.rikhil@gmail.com"&gt;Email&lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
-## 🚀 What I'm working on
-- Building AI-powered projects using LLM APIs
-- Learning product management — user research, PRDs, product strategy
-- Competing in hackathons and shipping things fast
+## About
+
+I am a first-year BTech student in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at KL University, Hyderabad. I build full-stack web applications, tools, and systems that solve real problems — from automating university exam seating to browser-based augmented reality product previews.
+
+I work with a modern, AI-assisted development workflow. I use LLMs as force multipliers to prototype fast, architect cleanly, and ship products that would otherwise take far longer. My focus is on the product: understanding the problem, designing the solution, and delivering something people actually use.
 
 ---
 
-## 🛠️ Tech & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Generative AI](https://img.shields.io/badge/GenAI-FF6F00?style=flat&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6C3483?style=flat)
+## Technical Skills
+
+**Languages:** Java, Python, C++, JavaScript, HTML, CSS  
+**Frameworks & Libraries:** React.js, Flask, Node.js, Tailwind CSS, Jinja2  
+**Cloud & Platforms:** Google Cloud Platform, REST APIs, WebXR  
+**Databases & Tools:** MySQL, Git, GitHub, VS Code, Vite  
+**Concepts:** Object-Oriented Design, Data Structures & Algorithms, System Design, Product Management
 
 ---
 
-## 📌 Featured Projects
-| Project | What it does | Status |
-|---|---|---|
-| [ExamSeat](https://github.com/rikhil-33/ExamSeat) | Full-stack exam seating system with Python/Flask backend and live admin dashboard | ✅ Complete |
-| [CampusHub](https://github.com/rikhil-33/CampusHub) | Student dashboard — doubt forum, attendance tracker, marketplace & notifications | ✅ Complete |
-| [AR Product Preview](https://github.com/rikhil-33/ar-product-preview) | Browser-based AR product visualiser built with React + Vite — lets users preview products in real space before buying | ✅ Complete |
-| [Expense Tracker](https://github.com/rikhil-33/Expense-tracker) | Java CLI app to track, categorise and summarise personal expenses | ✅ Complete |
+## Featured Projects
+
+### [ExamSeat](https://github.com/rikhil-33/ExamSeat)
+Automated examination seating allocation system with a live admin dashboard.
+
+- **Student Portal:** Hall ticket-based instant seat assignment with idempotent lookups — resubmitting the same ID always returns the same seat, preventing duplicate allocations.
+- **Admin Dashboard:** Real-time visual grid of all rooms with occupancy stats, hover-to-identify student mapping, and live polling via the Fetch API every 5 seconds.
+- **Smart Seating Algorithm:** Random assignment from a global pool of valid seats across all rooms for even distribution. Automatically enforces a one-chair buffer gap (odd-numbered seats only) to comply with Indian university examination norms.
+- **Tech Stack:** Python, Flask, Vanilla JavaScript, Jinja2, CSS custom properties (dark theme), in-memory data structures.
 
 ---
 
-## 🏆 Highlights
-- 🧠 **ForgeAscend v1.0** — 24-Hour Mega Buildathon @ KLH University (Feb 2026)
-- 📊 **Tata GenAI Powered Data Analytics** — Job Simulation via Forage (Oct 2025)
+### [AR Product Preview](https://github.com/rikhil-33/ar-product-preview)
+Browser-based Augmented Reality application for interactive 3D product visualization.
+
+- Enables users to preview product models in real-world spaces directly through standard web browsers — no app installation, no plugins, no backend required.
+- Features a fully interactive 3D viewer with drag, rotate, and zoom controls, plus an AR try-on mode using the device camera.
+- **Tech Stack:** React.js, Tailwind CSS, Vite, WebXR / browser-native AR.
+- Built in collaboration with K. Pavan Kumar at KL University.
 
 ---
 
-## 📊 GitHub Stats
-![Rikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikhil-33&show_icons=true&theme=tokyonight)
+### [CampusHub](https://github.com/rikhil-33/CampusHub)
+Centralized web platform for student services and campus resource management.
+
+- Streamlines access to academic tools, university events, and campus information through a unified interface.
+- **Tech Stack:** HTML, CSS, JavaScript. Deployed on Google Cloud Platform.
 
 ---
 
-## 🎯 Goal
-AI Product Manager at a big tech company — or an F1 team. Whichever gets there first. 🏎️
+### [Expense Tracker](https://github.com/rikhil-33/Expense-tracker)
+Command-line personal finance management application.
+
+- Tracks, categorizes, and analyzes daily expenditures with structured object-oriented logic.
+- Supports adding expenses with descriptions, amounts, categories, and dates; filtering by category; and computing total spending via Java Streams.
+- **Tech Stack:** Java, OOP (Encapsulation, Polymorphism), Collections (ArrayList), Java Streams, LocalDate API.
 
 ---
 
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikhil-siripurapu-036ba83a8/)
+## Coursework & Algorithm Practice
+
+### [LeetCode Solutions](https://github.com/rikhil-33/LeetCode)
+Curated implementations of fundamental Data Structures and Algorithms problems. Maintained via LeetHub v2 for structured interview preparation.
+
+### [CS50P Progress](https://github.com/rikhil-33/cs50p-progress)
+Complete coursework from Harvard's CS50 Introduction to Programming with Python, covering:
+- Functions, Variables, Conditionals, Loops
+- Exceptions, Libraries, Unit Testing
+- File I/O, Regular Expressions, Object-Oriented Programming
+- Final capstone project
 
 ---
 
-*Currently in Year 1 of 4. Building in public. Watch this space.*
+## Highlights
+
+- **ForgeAscend v1.0 — 24-Hour Mega Buildathon Winner**  
+  KLH University, February 2026
+
+- **Tata GenAI Powered Data Analytics**  
+  Job Simulation via Forage, October 2025
+
+---
+
+## Contact
+
+- **Email:** [siripurapu.rikhil@gmail.com](mailto:siripurapu.rikhil@gmail.com)
+- **GitHub:** [github.com/rikhil-33](https://github.com/rikhil-33)
+
+---
+
+&lt;p align="center"&gt;&lt;i&gt;Currently in Year 1 of 4. Building in public.&lt;/i&gt;&lt;/p&gt;
